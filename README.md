@@ -5,3 +5,6 @@ sessions in Express.js can be managed using
 2. express-session
 
 cookie-session : https://github.com/expressjs/cookie-session
+
+For cookie-session
+npm run-script start:cookiesession
