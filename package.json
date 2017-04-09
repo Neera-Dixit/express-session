@@ -1,0 +1,17 @@
+{
+    "name": "expresssession",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon --exec babel-node ./src/app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "babel-preset-es2015": "^6.24.1",
+        "cookie-session": "^2.0.0-beta.1",
+        "express": "^4.15.2"
+    }
+}
